@@ -1,0 +1,4 @@
+Position,Skill1,Skill2,Skill3,all_skills,skill_svd_0,skill_svd_1,skill_svd_2
+Cloud Developer,devOps,aws,,"devOps,aws",1.1672391475280187e-17,5.612148402392849e-17,1.0
+Data Engineer,couchbase,kafka,,"couchbase,kafka",0.8944271909999161,-0.4472135954999583,-1.2420255715274435e-16
+SDN Developer,maven,opendaylight,onos,"maven,opendaylight,onos",0.4472135954999581,0.8944271909999157,-2.4792936286790223e-16
